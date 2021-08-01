@@ -1,0 +1,33 @@
+body {
+    background-image: 
+    url(../images/bg-pattern-top-mobile.svg),
+    url(../images/bg-pattern-bottom-mobile.svg);
+  background-position:
+    top left,
+    bottom right; 
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: 'Spartan', sans-serif;
+}
+
+.attribution {
+    margin-top: 50px;
+    position: relative;
+    font-size: 10px;
+    width: 100%;
+}
+
+.attribution-text {
+    position: absolute;
+    width: 100%;
+    color: grey;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom: 0;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(179, 100%, 13%);
+}
