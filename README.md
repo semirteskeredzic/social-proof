@@ -33,6 +33,8 @@ Users should be able to:
 ## My process
 
 Before starting to code I've created an empty git repository and initialized a git repository inside my project folder, then I set the git remote to the newly created repository.
+I've created basic structure in HTML and globalized fonts. Next I started working on mobile first, in this particular case there wasn't much issues with the only one being two svg background elements but they took separate positions so it was taken care of.
+After mobile, the desktop needed some additional work, I had to apply flexbox and use cross-align as well as self-align on each element to align as per design.
 
 
 ### Built with
@@ -40,7 +42,6 @@ Before starting to code I've created an empty git repository and initialized a g
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- JavaScript
 - Mobile-first workflow
 
 ## Author
